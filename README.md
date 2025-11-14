@@ -20,13 +20,6 @@ Aqui estão algumas ferramentas que utilizo ou estou estudando:
 - **Banco de Dados:** MySQL  
 - **Outras Skills:** Git, GitHub, APIs REST, Docker (básico)
 
----
-
-## 📈 Estatísticas do GitHub
-*(Ative o GitHub Readme Stats para usar)*
-
----
-
 ## 📫 Como me encontrar
 - ✉️ **Email:** caualiveira007@gmail.com
 
