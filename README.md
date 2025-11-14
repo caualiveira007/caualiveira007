@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Caua Rodrigues
+# Olá Eu sou o Cauã
 
 ## 🧑‍💻 Sobre mim
 Sou um desenvolvedor de software apaixonado por tecnologia, aprendizado constante e criação de soluções úteis e inteligentes.  
@@ -15,9 +15,8 @@ Atualmente estou evoluindo minhas habilidades em desenvolvimento e buscando semp
 ## 🔧 Tecnologias e Ferramentas
 Aqui estão algumas ferramentas que utilizo ou estou estudando:
 
-- **Linguagens:** JavaScript, Python  
-- **Frontend:** HTML5, CSS3, React  
-- **Backend:** Node.js, Express  
+- **Linguagens:** JavaScript, Python, PHP  
+- **Frontend:** HTML5, CSS3, React    
 - **Banco de Dados:** MySQL  
 - **Outras Skills:** Git, GitHub, APIs REST, Docker (básico)
 
@@ -34,6 +33,6 @@ Aqui estão algumas ferramentas que utilizo ou estou estudando:
 ---
 
 ## 🎯 Objetivos
-- Aprimorar minhas habilidades em desenvolvimento full stack  
+- Aprimorar minhas habilidades e me tornar um  desenvolvimento full stack  
 - Criar novos projetos com foco em automação e IA  
 - Contribuir mais para a comunidade open-source  
