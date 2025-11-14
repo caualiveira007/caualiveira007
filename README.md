@@ -1,7 +1,7 @@
 # Olá Eu sou o Cauã
 
 ## Sobre mim
-Sou um desenvolvedor de software apaixonado por tecnologia, aprendizado constante e criação de soluções úteis e inteligentes.  
+Sou um iniciante no desenvolvimento de softwares e um apaixonado por tecnologia, aprendizado constante e criação de soluções úteis e inteligentes.  
 Gosto de transformar ideias em código, explorar novas ferramentas e construir projetos que realmente façam diferença.  
 Atualmente estou evoluindo minhas habilidades em desenvolvimento e buscando sempre novos desafios para aprimorar meu conhecimento.
 
