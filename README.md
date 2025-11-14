@@ -33,13 +33,7 @@ Outras Skills: Git, GitHub, APIs REST, Docker (básico)
 
 📫 Como me encontrar
 
-✉️ Email: seuemail@example.com
-
-💼 LinkedIn: https://linkedin.com/in/seuusuario
-
-🌐 Portfólio: (caso tenha)
-
-🎯 Objetivos atuais
+✉️ Email: caualiveira007@gmail.com
 
 Aprimorar minhas habilidades em desenvolvimento full stack
 
